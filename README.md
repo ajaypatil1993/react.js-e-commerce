@@ -123,7 +123,7 @@ VintageVogue/
 
 ## Live Preview 🌐
 
-Check out the live version of the site at: [VintageVogue Live](https://vintagevogue.netlify.app/)
+Check out the live version of the site at: [VintageVogue Live](https://vintage-vogue.netlify.app)
 
 ## Contact 📬
 
