@@ -1,20 +1,21 @@
 # VintageVogue 🛍️👗
 
-VintageVogue is a modern, fully responsive e-commerce website focused on classic and vintage fashion. The platform offers a sleek dark/light mode toggle, slider cards, and a product carousel to enhance the user experience. Built using React.js, Tailwind CSS, and other modern libraries, VintageVogue brings timeless fashion into the digital world.
+VintageVogue is a modern, fully responsive e-commerce website focused on classic and vintage fashion. The platform offers a sleek dark/light mode toggle, interactive slider cards, and a product carousel to enhance the shopping experience. Built with React.js, Tailwind CSS, and other cutting-edge libraries, VintageVogue brings timeless fashion into the digital world.
 
-## Screenshots
-!VintageVogue Darkmode Screenshot 1: C:\Users\aj410\Desktop\React_Projects\VintageVogue\src\assets\screenshot\Screenshot 2024-09-18 161551.png
-!VintageVogue lightmode Screenshot 2: C:\Users\aj410\Desktop\React_Projects\VintageVogue\src\assets\screenshot\Screenshot 2024-09-18 161744.png
+## Screenshots 📸
+
+![Dark Mode Screenshot](https://github.com/user-attachments/assets/1fbe6513-02a0-4f47-a7ce-5b84cebf15a2)
+![Light Mode Screenshot](https://github.com/user-attachments/assets/740e629d-76a0-4ae4-8513-c0613726e9d0)
 
 ## Features ✨
 
-- **Responsive Design**: Adapts seamlessly to all screen sizes and devices.
-- **Dark/Light Mode**: Toggle between dark and light themes for an enhanced user experience.
-- **Slider Cards**: Interactive sliders for products using `react-slick` and `slick-carousel`.
-- **Product Carousel**: Smooth product sliders for showcasing items.
-- **Modern UI/UX**: User-friendly interface designed for easy navigation.
-- **Smooth Animations**: Elements animated using AOS for a dynamic look and feel.
-- **Easy Navigation**: Seamless browsing experience with `react-router-dom`.
+- **Responsive Design**: Adapts seamlessly to all screen sizes and devices for an optimal user experience.
+- **Dark/Light Mode**: Toggle between dark and light themes for a customizable interface.
+- **Slider Cards**: Display products with interactive sliders using `react-slick` and `slick-carousel`.
+- **Product Carousel**: Showcase items using smooth product sliders.
+- **Modern UI/UX**: Sleek, user-friendly interface designed for easy navigation and interaction.
+- **Smooth Animations**: Elements animated using AOS for a dynamic and engaging look.
+- **Easy Navigation**: Seamless browsing experience powered by `react-router-dom`.
 
 ## Tech Stack 🛠️
 
@@ -59,7 +60,7 @@ VintageVogue/
 - **`src/`**: Contains the source code, including components, pages, and styles.
 - **`components/`**: Reusable UI components.
 - **`pages/`**: Different pages of the website.
-- **`styles/`**: CSS and Tailwind styles.
+- **`styles/`**: Tailwind CSS styles and custom styling files.
 - **`App.js`**: Main application component.
 - **`index.js`**: Entry point for the React application.
 
@@ -91,7 +92,7 @@ VintageVogue/
    npm start
    ```
 
-   Open your browser and go to `http://localhost:3000`.
+   Open your browser and go to `http://localhost:3000` to view the website.
 
 ## Contributing 🤝
 
@@ -118,7 +119,7 @@ VintageVogue/
 
 5. **Open a Pull Request**
 
-   Go to the repository on GitHub and create a new pull request.
+   Navigate to the repository on GitHub and create a new pull request.
 
 ## Live Preview 🌐
 
